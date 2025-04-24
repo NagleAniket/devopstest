@@ -2,4 +2,6 @@ this file is created from dev branch
 
 This is a good commit
 
-This is a good commit 2 
+This is a good commit 2
+
+This is a bug 
