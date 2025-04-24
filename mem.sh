@@ -5,4 +5,6 @@
 This is a test File
 help
 
-free -h 
+free -h
+
+df -h
